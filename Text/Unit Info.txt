@@ -1,0 +1,100 @@
+Eagle Warrior
+HP 10
+MOV 6
+SPD .7b/s
+ATT 7
+DEF 3
+RNG 1
+CD 20s
+
+The baddest dudes the Aztecs had. Can move far and fast and will cut a Quist' with their obsidian embedded <b>Macuahuitl</b>. Their years of battle in the sun have made their skin like tree bark, but you'll have to get past their shield to even land a hit. Come prepared or leave with your guts out.
+<align="center"><b>Special Ability:<b><i> Efficient at using a shield. High block chance
+
+Los tipos más feroces que tenían los aztecas. Puede moverse lejos y rápido y cortará un Quist' con su <b>Macuahuitl</b> incrustado en obsidiana. Sus años de batalla bajo el sol han hecho que su piel parezca corteza, pero tendrás que atravesar su escudo primero. Ven preparado o vete con las tripas afuera.
+<align="center"><b>Habilidad especial:</b> <i>Eficiente en el uso del escudo. Gran oportunidad de bloqueo
+
+Spear Thrower
+HP 10
+MOV 6
+SPD .8b/s
+ATT 6
+DEF 0
+RNG 2-4
+CD 19s
+
+Attacking from range always has its advantages. The units that use the spear thrower, or <b>Atlatl</b>, can propel a spear in a curve giving them access to the back lines and units behind walls. They tend to travel light making them vulnerable in a direct attack and can't attack back.
+<align="center"><b>Special Ability:<b><i> Spear can attack over other enemies and walls
+
+Atacar desde el lejos siempre tiene sus ventajas. Las unidades que usan el <b>Atlatl</b>, pueden impulsar una lanza en una curva dándoles acceso a las líneas traseras y unidades detrás de las paredes. Tienden a viajar ligeros, lo que los hace vulnerables en un ataque directo y no pueden devolver el ataque.
+<align="center"><b>Habilidad especial:</b> <i>Lanza puede atacar sobre otros enemigos y paredes
+
+
+
+Captor
+HP 10
+MOV 7
+SPD .9
+ATT 5
+DEF 2
+RNG 1
+CD 18s
+
+Everyone starts somewhere and this guy just took his captive. The <b>Tlamanih</b> is the first rank in the Aztec military. Though lacking the training and expertise of their <b>Cuāuhpipiltin</b> superiors, they can still move far and fast. Perfect for attacking in large, overwhelming numbers.
+<align="center"><b>Special Ability:<b><i> High movement and speed
+
+Todos comenazamos desde algún lugar y este tipo acaba de tomar a su primer cautivo. El <b>Tlamanih</b> es el primer rango del ejército Azteca. Aunque carecen del entrenamiento y la experiencia de sus superiores <b>Cuāuhpipiltin</b>, aún pueden moverse lejos y rápido. Perfecto para atacar en números grandes y abrumadores.
+<align="center"><b>Habilidad especial:</b> <i>Alto movimiento y velocidad
+
+Cavalry
+HP 10
+MOV 10
+SPD 1.2b/s
+ATT 9
+DEF 3
+RNG 1
+CD 30s
+
+The leaders of the Spanish liked horses and liked taking them into battle. <b>Jinetes</b> could turn a battle quickly by covering a lot of ground very quickly and surprising enemies. Add a large, pointy stick and they come bearing deadly force. Horsies get tired though.
+<align="center"><b>Special Ability:<b><i> Can move very far, very fast. Deal high damage
+
+Los líderes de los Españoles les gustaban sus caballos y les gustaba llevarlos a la batalla. <b>Jinetes</b> podían voltear una batalla rápidamente cubriendo mucho terreno rápidamente. Agrega un palo largo y muy puntiagudo y vienen con una fuerza letal. Sin embargo, los caballos .
+<align="center"><b>Habilidad especial:</b> <i>Puede moverse muy lejos y rápido. Inflige mucho daño
+
+
+
+
+
+
+
+Musketeer
+HP 10
+MOV 5
+SPD .6b/s
+ATT 8
+DEF 2
+RNG 1-5
+CD 22s
+
+You know what's better than range? A longer range. Plus a ton of damage. Modern combat was changed by the <b>Arqubusier</b>. With a weapon that was easier to use than a bow and could deal devastating damage, with incredible accuracy (uuuhhhh, video games!). Good luck getting close without a few new holes.
+<align="center"><b>Special Ability:<b><i> Incredible range and high damage
+
+¿Sabes qué es mejor que un alcanse largo? Un alcance más largo y una tonelada de daño. El <b>Arqubusier</b> cambio el combate moderno con una arma que era más fácil de usar que un arco y daño devastador y con una precisión que no falla (uuuhhhh, sshhh). Suerte acercándonte sin algunos agujeros nuevos.
+<align="center"><b>Habilidad especial:</b><i> Alcance asombroso y gran daño
+
+Soldier
+HP 10
+MOV 4
+SPD .4b/s
+ATT 6
+DEF 5
+RNG 1
+CD 23s
+
+Basic Spanish infantry, with their swords and light armor didn't do too well in the forest of middle-Mexico and jungles of Yucatan. But what they lacked in their lack of mobility, they made up for in defense and didn't slouch in dealing back pain. No matter how tired they are.
+<align="center"><b>Special Ability:<b><i> Very tanky. Can attack back while on cooldown.
+
+La infantería española básica, con sus espadas y armaduras ligeras, no lo hizo demasiado bien en los bosques de medio-México y selvas del Yucatán. Pero lo que les faltaba en movilidad, lo compensan en defensa y no les falta pasión para causar dolor. No importa lo cansados ​​que estén.
+<align="center"><b>Habilidad especial:</b> <i> Mucha defensa. Puede atacar mientras está en cooldown..
+
+Ideas:
+pick up other units items?

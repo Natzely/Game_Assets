@@ -1,0 +1,40 @@
+Moving
+	Move your curosor with WASD.
+	Mueves el cursor con WASD
+Selecting
+	To select a unit you use the [Space] bar. When you select a unit, a grid will appear. Green means you can move/attack and red means you can attack.
+	Usa la barra [Espacio] para selecionar unidades. Quando selecionas un unidad, una red aparecera. Verde significa que puedes moverte/atacar ahi y rojo nomas puedes atacar.
+Cancel
+	Until you finialize a move, you can press [C] to cancel actions.
+	Puedes cancelar actions con la tecla [C]  antes que terminez un movimiento.
+NextUnit
+	Press the [Q] key to quickly select the next unused unit.
+	Presiona la tecla [Q] para selecionar el sigiuente unidad que esta disponible.
+
+
+MoveAttack
+	You can move to a specific space and attack from that space. This is useful for strategic placements.
+	Te puedes mover a un lugar primero y atacar de ese lugar. Haciendo esto puede ayudar con estrategia.
+DirectAttack
+	You can also just selecct an enemy to attack it directly and your unit will position itself and attack at the earliest possible placement.
+	Tambien puedes selecionar un enemigo y tu unidad se pondra en una posicion para poder atacar quando pueda.
+BattleDamage
+	When you highlight an enemy unit you'll get to see the results of the battle. Blue arrow for player and red for enemy if they can attack back. Doesn't take into account a units block chance.
+	Quando pones el cursor sobre un enemigo podras ver el resultado de daño entre las unidades. Flecha azul para el jugador y roja para el enemigo si puede atacar. No toma en cuenta la probabilidad de bloquear.
+Cooldown
+	Whenever your unit moves or attacks, it will darken and go on cooldown. It will regain it's color back slowly and will spout stars when ready!
+	Quando tu unidad se mueve o ataca, se oscurecera no podras usarlo por un rato. Su color regresa en un tiempo y quando salgan estrellas podras reutilizarlo. 
+
+
+TimeStop
+	Press [V] to stop time for a small duration. While time is stopped you can look around and even give units order, but that will decrease the gauage faster. Time stop recharges over time and by units fighting.
+	Presiona [V] para parar tiempo por un rato. De mientras que el tiempo esta parado puedes moverte y hasta dar ordenes, pero eso usara mas de la abilidad. Se recarga con tiempo y con las unidades luchando.
+Menu
+	View the menu by pressing the [ESC] key. Here you can view the controls, restart the level, and quit the game (you can also use Alt+F4 to quit).
+	Ves el menu quando presionas la tecla [ESC]. Puedes ver los controles, reiniciar el nivel, y salir del juego aqui (tambien puedes usar ALT+F4 para salir).
+Minimap
+	The game has a minimap that is updated with the position of units and the active state. You can acces it by pressing and holding down [TAB].
+	Hay un minimapa en el juego que tiene las posiciones y su estado activo. Lo puedes acceder manteniendo presionando la tecla [TAB].
+UnitInfo
+	This screen will show you information on all the units. A base description, what they specialize in, and their stats. You can press right to get a description of the stats.
+	En esta pantalla puedes ver la informacion de las unidades. Tiene un descripcion basica, en lo que se especializan, y sus estadisticas. Puedes ver sus descripciones de las stats presionando a la derecha.
